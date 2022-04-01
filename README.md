@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Trojantazz
 - 👀 I’m interested in APP and Web Development
 - 🌱 I’m currently learning Python code
+- I Love Gaming and gametesting
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: Le.prodigy.masiane@gmail.com
 
