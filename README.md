@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tshiamo Mosiane 
-- 👀 I’m interested in APP and Web Development, QA Testing,
+- 👀 I’m interested in APP and Web Development, QA Testing and AI
 - 🌱 I’m currently learning Python code
 - I Love Coding, Reading, Gaming,  
 - 💞️ I’m looking to collaborate on ...
